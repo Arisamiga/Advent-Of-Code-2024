@@ -7,7 +7,7 @@ namespace _05
 {
     internal class Part1
     {
-        static void Main2(string[] args)
+        static void Main(string[] args)
         {
             String[] values = File.ReadAllLines(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "value.txt"));
             
