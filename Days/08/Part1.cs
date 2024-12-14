@@ -4,7 +4,7 @@ namespace _08
 {
     internal class Part1
     {
-        static void Main1(string[] args)
+        static void Main(string[] args)
         {
             int width = 0;
             int height = 0;
